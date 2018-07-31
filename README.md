@@ -1,5 +1,5 @@
 # DoxygenMakefile
-A includefile for Makefiles creating a dyxygen-configurationsfile for the sourcecode-documentation-tool Doxygen.
+A includefile for Makefiles creating a doxygen-configurationsfile "Doxyfile" for the sourcecode-documentation-tool Doxygen.
 
 In this maner it becomes possible creating a documentation depending on your makefiles project.
 
